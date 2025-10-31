@@ -1,10 +1,14 @@
 # YII-framework
 
-Nama Kelompok : - abdul Aziz
-                - Adnan Affandhy
-                - Affandi ridwan
-                - Muhammad hasby alpariji
-                - mila rispa
+## Nama Kelompok
+
+- **Abdul Aziz**  
+- **Adnan Affandhy**  
+- **Affandi Ridwan**  
+- **Muhammad Hasby Alpariji**  
+- **Mila Rispa**  
+- **Muhammad Saepul**
+
 
 
 
